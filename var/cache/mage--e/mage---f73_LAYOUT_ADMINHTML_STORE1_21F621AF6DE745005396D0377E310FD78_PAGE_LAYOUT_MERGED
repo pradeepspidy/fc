@@ -1,0 +1,2 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1689369449;s:6:"expire";i:1720905449;s:4:"tags";s:63:"f73_CUSTOMER_INDEX_ORDERS,f73_LAYOUT_GENERAL_CACHE_TAG,f73_MAGE";}
+{"pageLayout":"","layout":"<container name=\"root\" label=\"Root\">\n   <block class=\"Magento\\Customer\\Block\\Adminhtml\\Edit\\Tab\\Orders\" name=\"adminhtml.customer.edit.tab.orders\"\/>\n<\/container>\n"}
